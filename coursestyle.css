@@ -1,0 +1,30 @@
+li{
+    display: inline;
+    padding: 10px;
+    /*background-color: crimson;*/
+
+}
+ul{
+    color: seashell;
+    background-color: crimson;
+    padding: 10px;
+}
+
+#image{
+    text-align: center;
+    height: 350px;
+    background-image: url(https://mk0thinkificig8baqk3.kinstacdn.com/wp-content/themes/thinkific/assets/images/features/features-build-course-builder-background--desktop.jpg);
+}
+.prgrm{
+    background-color: cyan;
+    width: 29%;
+    height: 450px;
+    text-align: center;
+    display: inline-block;
+    padding: 20px;
+    border: red 2px solid;
+}
+
+.prgrm img{
+    width: 100px;
+}
